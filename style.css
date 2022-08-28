@@ -220,3 +220,14 @@ footer{
     position: relative;
     top: 100px;
 }
+button{
+    background-color: #434343;
+    color: white;
+    width: 15%;
+    height: 35px;
+    border-radius: 5px;
+    position: relative;
+    top: 30px;
+    right: 240px;
+    border: none;
+}
